@@ -1,0 +1,10 @@
+@font-face 
+{
+	font-family: font;
+	src: url(fonts/font.ttf);
+}
+#font
+{
+	font-family: font;
+	font-weight: normal;
+}
